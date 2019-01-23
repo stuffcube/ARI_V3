@@ -1,0 +1,15 @@
+[submodule "05_pcb"]
+	path = 05_pcb
+	url = https://github.com/stuffcube/05_pcb.git
+[submodule "03_fwFaroIR"]
+	path = 03_fwFaroIR
+	url = https://github.com/stuffcube/03_fwFaroIR.git
+[submodule "02_fwArianna"]
+	path = 02_fwArianna
+	url = https://github.com/stuffcube/02_fwArianna.git
+[submodule "01_pcSoftware"]
+	path = 01_pcSoftware
+	url = https://github.com/stuffcube/01_pcSoftware.git
+[submodule "00_doc"]
+	path = 00_doc
+	url = https://github.com/stuffcube/00_doc.git
