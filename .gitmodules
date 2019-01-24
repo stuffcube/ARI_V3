@@ -13,3 +13,6 @@
 [submodule "00_doc"]
 	path = 00_doc
 	url = https://github.com/stuffcube/00_doc.git
+[submodule "04_disegni3D"]
+	path = 04_disegni3D
+	url = https://github.com/stuffcube/04_disegni3D.git
