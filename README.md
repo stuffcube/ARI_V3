@@ -1,5 +1,8 @@
+**ATTENZIONE:** 
+
+per clonare il progetto utilizzare `git clone --recursive https://github.com/stuffcube/ARI_V3.git`
+
 la documentazione è in costruzione.
-ogni folder sarà un repository e conterrà un proprio readme
 
 la documentazione sarà in markdown language per poter essere editata e condivisa
 
