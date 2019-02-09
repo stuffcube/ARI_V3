@@ -76,7 +76,7 @@ il progetto poggia su Arduino, Python e varie librerie. Le librerie sono listate
 
 a cura di: [StuffCube](https://stuffcube.wordpress.com/)  & [Digitus Lab](https://www.pedagogia.it/digituslab/)
 
-
+![](C:\Users\giorgio.rancilio\Dropbox\MakersPgo\progettoAlfredo\arianna\ari2DCmotor\arianna-arianna2dc\00_ari_V3_git\ARI_V3\logo_StuffCube300px.png)   ![](C:\Users\giorgio.rancilio\Dropbox\MakersPgo\progettoAlfredo\arianna\ari2DCmotor\arianna-arianna2dc\00_ari_V3_git\ARI_V3\logo_digitusLab_300px.png)
 
 # Licenza
 
